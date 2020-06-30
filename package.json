@@ -1,0 +1,11 @@
+{
+  "name": "sfwc",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
